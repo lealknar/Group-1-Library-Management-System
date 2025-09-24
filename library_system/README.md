@@ -6,11 +6,11 @@ Each member of the group worked on different parts of the system, including the 
 
 
 
-                                             Mandocdoc VInce: Backend
-                                             Grande Franze: Backend
-                                       sarasata Christian: Moral Support 
-                                            Evangalista Karl: Q&A
-                                            Delas Alas Anjelo: Frontend 
+                                            Mandocdoc Vince: Backend
+                                            Grande Franz: Backend
+                                            Sarasata Christian: Moral Support 
+                                            Evangalista Karl: QA
+                                            Delas Alas Mark Angelo: Frontend 
 
 
 download ther file and database then download the xampp and then put the downloaded file in the xammp htdocs and put it inside and open xampp if u already open it import the database that u downloaded then u are good to go 
