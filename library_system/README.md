@@ -8,7 +8,7 @@ Each member of the group worked on different parts of the system, including the 
 
                                             Mandocdoc Vince: Backend
                                             Grande Franz: Backend
-                                            Sarasata Christian: Moral Support 
+                                            Sarasata Christian: Database Admin
                                             Evangalista Karl: QA
                                             Delas Alas Mark Angelo: Frontend 
 
